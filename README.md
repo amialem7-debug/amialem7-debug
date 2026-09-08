@@ -1,7 +1,9 @@
 ## Hi there, my name is Ami.👋
 
-I am currently a web development student with a strong interest in both frontend and backend development. 
+I am currently a web development student with a strong interest in both frontend and backend development.
+##
 I am studying .NET Web Development and developing my skills in C#, .NET, JavaScript, HTML, and CSS. 
+##
 I enjoy creating modern and user-friendly web solutions and I am always eager to learn new technologies.
 
 
