@@ -6,6 +6,9 @@ I am studying .NET Web Development and developing my skills in C#, .NET, JavaScr
 
 I enjoy creating modern and user-friendly web solutions and I am always eager to learn new technologies.
 
+Right now, I mainly code because I enjoy it and as part of my studies. I hope to continue developing my projects, building on my skills, and growing as a developer.
+
+
 
 <!--
 **amialem7-debug/amialem7-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
