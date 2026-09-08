@@ -8,7 +8,7 @@ I enjoy creating modern and user-friendly web solutions and I am always eager to
 
 Right now, I mainly code because I enjoy it and as part of my studies. I hope to continue developing my projects, building on my skills, and growing as a developer.
 
-#Fun Facts
+# Fun Facts
 - I like talking to other people.
 - I enjoy watching movies.
 - I love fishing
