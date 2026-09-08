@@ -1,5 +1,5 @@
-## Hi there,👋
-# my name is Ami.
+## Hi there, my name is Ami.👋
+
 
 
 <!--
