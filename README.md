@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there,👋
+# my name is Ami.
+
 
 <!--
 **amialem7-debug/amialem7-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
