@@ -13,7 +13,10 @@ Fun Facts:
 - I like talking to other people.
 - I enjoy watching movies.
 - I love fishing
-  
+
+Mitt CV:
+https://amialem7-debug.github.io/CV-Portfolio/
+
 
 
 
